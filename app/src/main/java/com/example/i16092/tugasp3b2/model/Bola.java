@@ -1,7 +1,7 @@
 package com.example.i16092.tugasp3b2.model;
 
 public class Bola {
-    protected  float x,y;
+    protected float x,y;
     protected int radiusKlik,warna;
 
     public Bola(float x, float y, int radius,int warna){

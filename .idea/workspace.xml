@@ -9,17 +9,10 @@
     <list default="true" id="fd046c37-fcb8-459e-bb2d-03003c4a57fb" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/Bola.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/Bola.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/BolaManager.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/BolaManager.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/Engine.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/Engine.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/FragmentGamePage.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/view/FragmentGamePage.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/ListenerGamePage.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/ListenerGamePage.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/MainActivity.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/ScoreList.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/ScoreList.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/ScoreManager.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/ScoreManager.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/SensorReader.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/SensorReader.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/Timer.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/Timer.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/TimerListener.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/TimerListener.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/Bola.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/Bola.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/Engine.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/Engine.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/view/MainActivity.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/SensorReader.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/SensorReader.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,21 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="BolaManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/BolaManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Engine.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/Engine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            <state relative-caret-position="178">
+              <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -57,12 +40,34 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Bola.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/Bola.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BolaManager.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/BolaManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-153">
+              <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ListenerGamePage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/ListenerGamePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-              <folding />
+            <state relative-caret-position="136">
+              <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,7 +75,7 @@
       <file leaf-file-name="ScoreList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/ScoreList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
+            <state relative-caret-position="34">
               <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
               <folding />
             </state>
@@ -87,21 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SensorReader.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SensorReader.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/SensorReader.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Timer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/Timer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="85">
+              <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -127,17 +122,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/MainActivity.java">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/view/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="32" column="23" lean-forward="false" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+            <state relative-caret-position="323">
+              <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>layout</find>
+      <find>BolaMana</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -2017,8 +2018,9 @@
       <list>
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/TimerListener.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/TimerListener.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/view/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/view/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/Bola.java" />
       </list>
     </option>
   </component>
@@ -2340,54 +2342,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/Bola.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/BolaManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/ListenerGamePage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="6" column="17" lean-forward="false" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/ScoreList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/ScoreManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/SensorReader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/Timer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
@@ -2412,20 +2366,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/view/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="48" column="0" lean-forward="false" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/Bola.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/BolaManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/Engine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        <state relative-caret-position="178">
+          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/ListenerGamePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="32" column="23" lean-forward="false" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+        <state relative-caret-position="136">
+          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/ScoreList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/ScoreManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/i16092/tugasp3b2/model/SensorReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
           <folding />
         </state>
       </provider>

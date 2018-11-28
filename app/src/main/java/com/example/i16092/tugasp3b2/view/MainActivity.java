@@ -1,4 +1,4 @@
-package com.example.i16092.tugasp3b2.model;
+package com.example.i16092.tugasp3b2.view;
 
 import android.app.Activity;
 import android.graphics.Bitmap;
@@ -23,7 +23,7 @@ import com.example.i16092.tugasp3b2.model.SensorReader;
 import com.example.i16092.tugasp3b2.view.FragmentGamePage;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener, ListenerGamePage {
-    LinearLayout layout,fragContainer;
+    public LinearLayout layout,fragContainer;
     Paint paint, paintText;
     int mColorBackground, mColorBackground2,white;
     int highScore=0;

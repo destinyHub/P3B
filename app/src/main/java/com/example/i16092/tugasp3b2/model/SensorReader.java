@@ -6,6 +6,8 @@ import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
 
+import com.example.i16092.tugasp3b2.view.MainActivity;
+
 public class SensorReader implements SensorEventListener {
     SensorManager manager;
     Sensor accelerometer,magnetometer;

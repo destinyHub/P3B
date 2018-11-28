@@ -5,6 +5,7 @@ import android.support.v4.content.res.ResourcesCompat;
 import android.util.Log;
 
 import com.example.i16092.tugasp3b2.R;
+import com.example.i16092.tugasp3b2.view.MainActivity;
 
 import java.util.LinkedList;
 import java.util.Random;
