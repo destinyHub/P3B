@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".FragmentGamePage">
+    tools:context="com.example.i16092.tugasbesaruas2.FragmentGamePage">
 
     <!-- TODO: Update blank fragment layout -->
     <RelativeLayout
