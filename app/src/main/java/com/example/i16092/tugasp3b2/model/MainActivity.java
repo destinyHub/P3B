@@ -1,4 +1,4 @@
-package com.example.i16092.tugasp3b2;
+package com.example.i16092.tugasp3b2.model;
 
 import android.app.Activity;
 import android.graphics.Bitmap;
@@ -14,7 +14,15 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 
-public class MainActivity extends AppCompatActivity implements View.OnClickListener, ListenerGamePage{
+import com.example.i16092.tugasp3b2.R;
+import com.example.i16092.tugasp3b2.model.BolaManager;
+import com.example.i16092.tugasp3b2.model.Engine;
+import com.example.i16092.tugasp3b2.model.ListenerGamePage;
+import com.example.i16092.tugasp3b2.model.ScoreManager;
+import com.example.i16092.tugasp3b2.model.SensorReader;
+import com.example.i16092.tugasp3b2.view.FragmentGamePage;
+
+public class MainActivity extends AppCompatActivity implements View.OnClickListener, ListenerGamePage {
     LinearLayout layout,fragContainer;
     Paint paint, paintText;
     int mColorBackground, mColorBackground2,white;

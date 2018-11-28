@@ -1,4 +1,4 @@
-package com.example.i16092.tugasp3b2;
+package com.example.i16092.tugasp3b2.model;
 
 public class ScoreList implements Comparable<ScoreList>{
     int score;

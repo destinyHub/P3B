@@ -1,8 +1,10 @@
-package com.example.i16092.tugasp3b2;
+package com.example.i16092.tugasp3b2.model;
 
 import android.graphics.Paint;
 import android.support.v4.content.res.ResourcesCompat;
 import android.util.Log;
+
+import com.example.i16092.tugasp3b2.R;
 
 import java.util.LinkedList;
 import java.util.Random;

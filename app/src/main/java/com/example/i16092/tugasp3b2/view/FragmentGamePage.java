@@ -1,4 +1,4 @@
-package com.example.i16092.tugasp3b2;
+package com.example.i16092.tugasp3b2.view;
 
 
 import android.app.Activity;
@@ -16,11 +16,17 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+import com.example.i16092.tugasp3b2.R;
+import com.example.i16092.tugasp3b2.model.Engine;
+import com.example.i16092.tugasp3b2.model.ListenerGamePage;
+import com.example.i16092.tugasp3b2.model.Timer;
+import com.example.i16092.tugasp3b2.model.TimerListener;
+
 
 /**
  * A simple {@link Fragment} subclass.
  */
-public class FragmentGamePage extends Fragment implements View.OnClickListener,View.OnTouchListener, TimerListener{
+public class FragmentGamePage extends Fragment implements View.OnClickListener,View.OnTouchListener, TimerListener {
     ListenerGamePage listener;
     Activity act;
     LinearLayout layout;

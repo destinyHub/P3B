@@ -1,4 +1,4 @@
-package com.example.i16092.tugasp3b2;
+package com.example.i16092.tugasp3b2.model;
 
 import android.app.Activity;
 import android.graphics.Paint;
